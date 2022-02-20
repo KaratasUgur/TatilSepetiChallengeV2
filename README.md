@@ -13,4 +13,4 @@ Card Componenti internette yaptığım aramalar sonucunda lazy component hale ge
 
 Not: lazy loading'ten kastınız örnek olarak YouTube ilk açıldığında ekranda default bir yapı göstersin datalar daha sonra dolsun ise bunun için version 3'ü yazabilirim.
 
-Apk:https://drive.google.com/file/d/13nbaVHvQdTUNWdciTWOT5bZ8NRNgtmWX/view?usp=sharing
+#Apk: https://drive.google.com/file/d/13nbaVHvQdTUNWdciTWOT5bZ8NRNgtmWX/view?usp=sharing
